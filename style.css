@@ -1,6 +1,6 @@
 body{
     font-family: Roboto;
-    background:url(./handmade-paper-hearts-gray-textured-background.JPG);
+    background:url(handmade-paper-hearts-gray-textured-background.JPG);
     background-size:cover;
     
 }
@@ -98,7 +98,7 @@ span{
     }
     body{
         font-family: Roboto;
-        background:url(./handmade-paper-hearts-gray-textured-background.jpg);
+        background:url(handmade-paper-hearts-gray-textured-background.jpg);
         background-size:20vh;
         
         background-size:cover;
